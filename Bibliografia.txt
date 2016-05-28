@@ -1,0 +1,8 @@
+Para los archivos de trazabilidad : LOG4J
+http://www.mkyong.com/logging/log4j-hello-world-example/
+
+Para lo Demonios de los Servicios: Observan lo que hacer y dan permisos
+http://www.desarrolloweb.com/faq/369.php
+
+Para que el controller retorne json:
+http://hmkcode.com/spring-mvc-return-json-using-responseboyd/
