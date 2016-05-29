@@ -6,3 +6,10 @@ http://www.desarrolloweb.com/faq/369.php
 
 Para que el controller retorne json:
 http://hmkcode.com/spring-mvc-return-json-using-responseboyd/
+
+Para ver que servicios esta corriendo:
+ps -fea
+
+Para ingesar a editar base de datos:
+mysql -u root -p(enter)
+(pasw: ******123456******)
